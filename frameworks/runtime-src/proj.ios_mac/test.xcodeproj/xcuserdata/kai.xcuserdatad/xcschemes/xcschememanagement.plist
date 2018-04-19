@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>fishjoy Mac.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>fishjoy chenlong.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>fishjoy chuangfu.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>fishjoy rexuebuyu.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>fishjoy test src.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>fishjoy test www.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>fishjoy x10.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>fishjoy x11.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>fishjoy x12.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>fishjoy x13.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>fishjoy x14.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>fishjoy x2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>fishjoy x3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>fishjoy x4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>fishjoy x5.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>fishjoy x6.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>fishjoy x7.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>fishjoy x8.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>fishjoy x9.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2A04FA631DE83D7A009BA4AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A04FB411DE84433009BA4AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A04FBFC1DE844D4009BA4AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A0585D11DB075C000A71128</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A1092951DD4BF3D009FEC22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A10935A1DD4C719009FEC22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A1094131DD4C727009FEC22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A3520E51D2E581900ED47D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A3E397F1DC72456003417B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A3E3A3A1DC7251A003417B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A46DC7A1E4B17E60051B5E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A6B5DB71DE2E32100D161FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A975EF11D2A4F3B00603515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A975F9A1D2A522D00603515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AA87B0D1DC0B0110017E566</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2ABD42301DD16913001809B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AFBB2F71D6AE29200FFA2DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5023812617EBBCE400990C9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F293B3C715EB7BE500256477</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
